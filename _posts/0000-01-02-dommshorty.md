@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+remember, capitalism is a plague on society and all cops are bastards
 Use the left arrow to go back!
